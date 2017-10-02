@@ -100,3 +100,4 @@ ENV/
 
 .idea/
 contests/OTP_bank/intro.ipynb
+.Rproj.user
