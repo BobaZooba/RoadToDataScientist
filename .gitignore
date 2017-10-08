@@ -97,7 +97,7 @@ ENV/
 
 # mypy
 .mypy_cache/
-
+contests/OTP_bank/data/w_regions.csv
 .idea/
 contests/OTP_bank/intro.ipynb
 .Rproj.user
