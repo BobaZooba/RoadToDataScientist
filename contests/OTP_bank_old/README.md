@@ -7,3 +7,4 @@
 
 Ссылка на конкурс:
 http://poligon.machinelearning.ru/Contests/Card.aspx?synonim=otp
+
