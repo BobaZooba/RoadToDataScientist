@@ -101,3 +101,4 @@ contests/OTP_bank/data/w_regions.csv
 .idea/
 contests/OTP_bank/intro.ipynb
 .Rproj.user
+contests/OTP_bank_old/data/w_regions.csv
