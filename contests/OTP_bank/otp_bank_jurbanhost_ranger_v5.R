@@ -9,6 +9,17 @@ data_test_source <- read.csv2(file = "data/source/Credit_OTP_new.csv",
                                  na.strings = c("", "Пропуск"), 
                                  encoding = "windows-1251")
 
+data_train_source <- read.csv2(file = "/Users/boriszubarev/Desktop/RoadToDataScientist/contests/OTP_bank/data/Credit_OTP.csv",
+                               stringsAsFactors = FALSE, 
+                               na.strings = c("", "Пропуск"), 
+                               encoding = "windows-1251")
+data_test_source <- read.csv2(file = "data/source/Credit_OTP_new.csv", 
+                              stringsAsFactors = FALSE, 
+                              na.strings = c("", "Пропуск"), 
+                              encoding = "windows-1251")
+
+# /Users/boriszubarev/Desktop/RoadToDataScientist/contests/OTP_bank/data/data_for_h2o_gbm.csv
+
 # готовим датасеты
 data_train <- data_train_source
 data_test <- data_test_source
